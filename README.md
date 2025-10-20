@@ -1,5 +1,6 @@
-## ESP32-Drone
-The ESP32-Drone‘s whole programming codes
+
+## ESP-Drone
+
 * [中文](./README_cn.md)
 
 [![Build project](https://github.com/espressif/esp-drone/actions/workflows/build_project.yml/badge.svg)](https://github.com/espressif/esp-drone/actions/workflows/build_project.yml)
